@@ -145,10 +145,6 @@ public class Developer {
 
 <div align="center">
 
-## 🏆 Trophy Room
-
-<img src="https://github-profile-trophy.vercel.app/?username=RaviKurane17&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-
 </div>
 
 <br/>
