@@ -129,12 +129,6 @@ public class Developer {
 
 <div align="center">
 
-## 📈 Metrics Dashboard
-
-<img src="https://raw.githubusercontent.com/RaviKurane17/RaviKurane17/main/github-metrics.svg" width="98%" />
-
-<sub>Auto-refreshes every 6 hours via GitHub Actions</sub>
-
 </div>
 
 <br/>
