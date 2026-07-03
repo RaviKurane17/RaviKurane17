@@ -43,4 +43,4 @@ jobs:
           plugin_topics: yes
           plugin_lines: yes
 
-          config_timezone: Asia/Kolkata
+          config_timezone: Asia/Kolkata 
