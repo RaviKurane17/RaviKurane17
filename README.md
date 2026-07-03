@@ -286,10 +286,6 @@ My personal portfolio site showcasing my skills, projects, and journey as a deve
 
 <div align="center">
 
-### 🏅 Holopin Badges
-
-<img src="https://holopin.me/RaviKurane17" alt="Holopin badges" />
-
 </div>
 
 <br/>
