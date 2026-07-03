@@ -296,9 +296,6 @@ My personal portfolio site showcasing my skills, projects, and journey as a deve
 
 <div align="center">
 
-### ⏱️ Weekly Coding Activity
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RaviKurane17&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&layout=compact" />
 
 </div>
 
@@ -306,9 +303,7 @@ My personal portfolio site showcasing my skills, projects, and journey as a deve
 
 <div align="center">
 
-### 🎧 Now Playing
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&bar_color=A78BFA&bar_color_cover=true" />
 
 </div>
 
