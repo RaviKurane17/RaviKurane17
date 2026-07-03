@@ -129,6 +129,28 @@ public class Developer {
 
 <div align="center">
 
+## 📈 Metrics Dashboard
+
+<img src="https://raw.githubusercontent.com/RaviKurane17/RaviKurane17/main/github-metrics.svg" width="98%" />
+
+<sub>Auto-refreshes every 6 hours via GitHub Actions</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/RaviKurane17/RaviKurane17/output/github-contribution-grid-snake-dark.svg" width="98%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ## 🏆 Trophy Room
 
 <img src="https://github-profile-trophy.vercel.app/?username=RaviKurane17&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
@@ -263,6 +285,36 @@ My personal portfolio site showcasing my skills, projects, and journey as a deve
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏅 Holopin Badges
+
+<img src="https://holopin.me/RaviKurane17" alt="Holopin badges" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⏱️ Weekly Coding Activity
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RaviKurane17&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&layout=compact" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🎧 Now Playing
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&bar_color=A78BFA&bar_color_cover=true" />
 
 </div>
 
